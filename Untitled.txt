@@ -1,0 +1,11 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Lab Project</title>
+</head>
+<body>
+    <h1>THIS IS MY LAB INSEM1</h1>
+    <p>My first GitHub deployment.</p>
+</body>
+</html>
